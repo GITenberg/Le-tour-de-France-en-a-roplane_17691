@@ -1,0 +1,40 @@
+_repo: Le-tour-de-France-en-a-roplane_17691
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Raffin, Ferdinand
+    gutenberg_agent_id: '7543'
+    url: http://www.gutenberg.org/2009/agents/7543
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graffigny, H. de (Henry)
+    aliases:
+    - Graffigny, Henri de
+    - Graffigny, Henry de
+    - Marquis, Raoul
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '7542'
+    url: http://www.gutenberg.org/2009/agents/7542
+description: ''
+gutenberg_bookshelf:
+- Transportation
+- FR Sciences et Techniques
+- FR Voyages et pays
+gutenberg_issued: '2006-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17691'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Flights'
+- !lcsh 'France -- Description and travel'
+- !lcc 'TL'
+title: Le tour de France en aéroplane
+url: http://www.gutenberg.org/ebooks/17691
