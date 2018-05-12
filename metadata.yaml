@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '7542'
     url: http://www.gutenberg.org/2009/agents/7542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17691#Le-tour-de-France-en-a-roplane
 gutenberg_bookshelf:
 - Transportation
 - FR Sciences et Techniques
